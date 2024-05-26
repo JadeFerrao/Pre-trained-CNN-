@@ -1,6 +1,4 @@
-# Pre-trained-CNN
-
-# Deep Learning Architectures
+# Pretrained Deep Learning Architectures
 This repository contains various popular deep learning architectures implemented in TensorFlow/Keras. Below is a brief description of each architecture included in this repository: 
 
 # Inception Net
